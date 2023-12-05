@@ -14,5 +14,7 @@ Downlaod the repo to your system, connect to Google drive and use it on Google C
 
 Data:
 1)Download the validation and test datasets from here and upload them to Google Drive under bd/ and cl/ and sunglasses_bd_net.h5
+
 2)The dataset contains images from the YouTube Aligned Face Dataset. We retrieved 1283 individuals and split them into validation and test datasets.
+
 3)bd_valid.h5 and bd_test.h5 contains validation and test images with sunglasses trigger respectively, that activates the backdoor for bd_net.h5.# ml_cybersec_lab4
